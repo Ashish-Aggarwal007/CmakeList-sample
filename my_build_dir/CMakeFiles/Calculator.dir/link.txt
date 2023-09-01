@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Calculator.dir/main.cpp.o CMakeFiles/Calculator.dir/addition.cpp.o CMakeFiles/Calculator.dir/division.cpp.o CMakeFiles/Calculator.dir/print_result.cpp.o -o Calculator 
